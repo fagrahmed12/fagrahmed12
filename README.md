@@ -14,6 +14,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fagrahmed12&theme=jolly&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fagrahmed12&theme=jolly&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=dracula)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=fagrahmed12&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 

@@ -1,7 +1,4 @@
 ### Hi there 👋
-
-<!--
-**fagrahmed12/fagrahmed12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # 💫 About Me:
 🎓 Graduated from the Faculty of  Engineering as Computer Engineer.<br><br>🔭 I’m currently working on  STEM Zone as Robotics Instructor.<br><br>👨‍💻 I enjoy explaining and learning robotics for kids.<br><br>🌱 I’m currently learning Artificial Intelligence & Data Science.<br><br>💬 Ask me about Python, SQL, Data Analysis, Data Science, AI, Robotics, Deep Learning, Machine Learning, Computer vision, and Natural Language processing.<br><br>📫 How to reach me: fagrelaskary758@gmail.com<br><br>📄 Know about my experiences: https://www.linkedin.com/in/fagr-el-askary-30b96b162/.
 

@@ -14,11 +14,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fagrahmed12&theme=jolly&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fagrahmed12&theme=jolly&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fagr Elaskary&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vn7n24fzkq&theme=dracula&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fagrahmed12&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fagrahmed12&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fagrahmed12&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fagrahmed12&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fagrahmed12&theme=dracula&utcOffset=8)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=fagrahmed12&theme=dracula&no-frame=true&no-bg=false&margin-w=4)

@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BC96F7&width=435&lines=Welcome+in+my+Github;The+World+of+Data)](https://git.io/typing-svg)
 
 # 💫 About Me:
-🎓 Graduated from the Faculty of  Engineering as a Computer Engineer.<br><br>🔭 I’m currently working on  STEM Zone as a Robotics Instructor for Kids.<br><br>👨‍💻 I enjoy explaining and learning robotics for kids.<br><br>🌱 I’m currently learning Artificial Intelligence,Data Science & Hardware Design.<br><br>💬 Ask me about Python, SQL, Data Analysis, Data Science, AI, Robotics, Deep Learning, Machine Learning, Computer vision, and Natural Language processing.<br><br>📫 How to reach me: fagrelaskary758@gmail.com<br><br>📄 Know about my experiences: https://www.linkedin.com/in/fagr-el-askary-30b96b162/.<br><br>💻 My Portfolio: https://unique-iron-70fec.stackbit.app/
+🎓 Graduated from the Faculty of  Engineering as a Computer Engineer.<br><br>🔭 I’m currently working on AUC as a TA and RA , Previously, I was working at STEM Zone as a Robotics Instructor for kids. .<br><br>👨‍💻 I enjoy explaining and learning robotics for kids.<br><br>🌱 I’m currently learning Artificial Intelligence,Data Science & Hardware Design.<br><br>💬 Ask me about Python, SQL, Data Analysis, Data Science, AI, Robotics, Deep Learning, Machine Learning, Computer vision, and Natural Language processing.<br><br>📫 How to reach me: fagrelaskary758@gmail.com<br><br>📄 Know about my experiences: https://www.linkedin.com/in/fagr-el-askary-30b96b162/.<br><br>💻 My Portfolio: https://unique-iron-70fec.stackbit.app/
 
 
 ## 🌐 Socials:
